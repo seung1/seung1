@@ -19,11 +19,11 @@
 ### 🧑‍💻 Experience
 
 - **[Chung-Ang University, Computer Science](https://cse.cau.ac.kr/main.php) (2017.03 - 2024.02)**
-  - 컴퓨터공학부 우등 졸업 (평점 4.11/4.5)
+  - 컴퓨터공학부 우등 졸업
 
 - **[Vault Micro](https://vaultmicro.com) | Frontend Intern (2023.03 - 2023.08)**  
   - CameraFi Studio 초기 프론트엔드 개발 참여  
-  - 제안한 개선안 중 82.3% 채택  
+  - 제안한 개선안 82.3% 채택  
 
 - **[Vault Micro](https://vaultmicro.com) | Frontend Developer (2023.09 - 2024.10)**  
   - CameraFi Studio, CameraFi Admin 프론트엔드 개발  
