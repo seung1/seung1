@@ -4,7 +4,7 @@
 ### 🧑‍💻 Experience
 
 - **[MIDAS IT](https://group.midasit.com) | Frontend Developer (2025.12 - )**
-  - MOTIIV, MIDAS Desk, MIDAS User 프론트엔드 개발
+  - MIDAS Desk, MOTIIV, MAS (MIDAS Admin) 프론트엔드 개발
 
 - **[Vault Micro](https://vaultmicro.com) | Frontend Developer (2023.03 - 2024.10)**  
   - CameraFi Studio, CameraFi Admin 프론트엔드 개발  
